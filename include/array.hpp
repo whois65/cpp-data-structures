@@ -1,5 +1,5 @@
-#ifndef ARRAY_HPP
-#define ARRAY_HPP
+#pragma once
+#include <iostream>
 
 template <typename T>
 class Array {
@@ -100,4 +100,3 @@ class Array {
     }
 };
 
-#endif
